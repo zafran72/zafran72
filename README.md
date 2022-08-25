@@ -2,7 +2,7 @@
 
 My name is Teuku Zafran Elrifqi.
 
-🌱 I’m currently learning flutter and backend (flask/node.js)
+🌱 I’m currently learning flutter
 
 <!--
 **zafran72/zafran72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
