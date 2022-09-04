@@ -4,7 +4,7 @@ My name is Teuku Zafran Elrifqi.
 
 🌱 I’m currently learning flutter
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zafran72)](https://github.com/zafran72/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zafran72&show_icons=true&theme=dark)](https://github.com/zafran72/github-readme-stats)
 
 <!--
 **zafran72/zafran72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
